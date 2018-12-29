@@ -34,6 +34,7 @@ sudo apt-get install --assume-yes libgstreamer-plugins-base0.10-dev
 sudo apt-get install --assume-yes libv4l-dev libtbb-dev libfaac-dev libmp3lame-dev
 sudo apt-get install --assume-yes libopencore-amrnb-dev libopencore-amrwb-dev
 sudo apt-get install --assume-yes libvorbis-dev libxvidcore-dev v4l-utils
+sudo apt-get install --assume-yes subversion cmake libopencv-dev libeigen3-dev libv4l-dev
 sudo apt-get install --assume-yes gcc-5 
 #(務必將 gcc 和 g++ 升級成 5 以上版本)
 sudo apt-get install --assume-yes g++-5
