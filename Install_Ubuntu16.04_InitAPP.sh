@@ -38,6 +38,8 @@ sudo apt-get install --assume-yes subversion cmake libopencv-dev libeigen3-dev l
 sudo apt-get install --assume-yes gcc-5 
 #(務必將 gcc 和 g++ 升級成 5 以上版本)
 sudo apt-get install --assume-yes g++-5
+sudo apt install dkms build-essential module-assistant
+sudo m-a prepare
 #----------------------------------------------------------
 
 wget https://bootstrap.pypa.io/get-pip.py
